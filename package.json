@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "lite": "lite-server",
-    "start": "concurrent \"npm run lite\" "
+    "start": "concurrent \"npm run lite\" \"gulp\""
   },
   "license": "ISC",
   "dependencies": {
